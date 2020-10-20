@@ -36,3 +36,5 @@ class Knapsack {
         System.out.println(knapSack(W, wt, val, n)); 
     } 
 } 
+
+output:220
